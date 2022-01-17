@@ -1,0 +1,6 @@
+{
+    "title": "网格重点人群精细化管理系统",
+    "baseURL": "http://192.168.2.19:8030",
+    "jdsURL": "http://dev.emhi.cn:18685/mhi-jds/#/",
+    "thirdPartUrl": ""
+}
